@@ -5,7 +5,7 @@
 
 #
 
-<img align="right" alt="" height="125px" src=".github/workflows/PC GIF.gif">
+<img align="right" alt="" height="180px" src=".github/workflows/PC GIF.gif">
 
 
 
@@ -16,7 +16,10 @@
   <img align="center" alt="Jayme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jayme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jayme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
   
   #
