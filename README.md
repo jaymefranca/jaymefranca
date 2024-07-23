@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E18F7&background=FF000000&center=true&vCenter=true&width=460&lines=%E2%9C%A8Ol%C3%A1%2C+sou+o+Jayme%2C+Seja+Bem+Vindo!!%E2%9C%A8" alt="Typing SVG" /></a>
-#
+<p align=center a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E18F7&background=FF000000&center=true&vCenter=true&width=460&lines=%E2%9C%A8Ol%C3%A1%2C+sou+o+Jayme%2C+Seja+Bem+Vindo!!%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align=center>Estudante de análise e desenvolvimento de sistemas na universidade presbiteriana mackenzie, formado em engenharia civil com ampla experiência em finanças. Busco aprimorar meus conhecimentos em programação para uma transição de carreira para desenvolvimento full-stack.
 
