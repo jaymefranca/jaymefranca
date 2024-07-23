@@ -1,10 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E18F7&background=FF000000&center=true&vCenter=true&width=460&lines=%E2%9C%A8Ol%C3%A1%2C+sou+o+Jayme%2C+Seja+Bem+Vindo!!%E2%9C%A8" alt="Typing SVG" /></a>
-##
-Estudante de análise e desenvolvimento de sistemas na universidade presbiteriana mackenzie, formado em engenharia civil com ampla experiência em finanças. Busco aprimorar meus conhecimentos em programação para uma transição de carreira para desenvolvimento full-stack.
+#
 
-##
-<img align="right" alt="" height="100px" src=".github/workflows/PC GIF.gif">
-##
+<p align=center>Estudante de análise e desenvolvimento de sistemas na universidade presbiteriana mackenzie, formado em engenharia civil com ampla experiência em finanças. Busco aprimorar meus conhecimentos em programação para uma transição de carreira para desenvolvimento full-stack.
+
+#
+
+<img align="right" alt="" height="125px" src=".github/workflows/PC GIF.gif">
+
+
+
 <b>Stack</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jayme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -14,8 +18,9 @@ Estudante de análise e desenvolvimento de sistemas na universidade presbiterian
   <img align="center" alt="Jayme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-
-  ##
+  
+  #
+ 
  <b>Redes Sociais</b>
 <div> 
     <a href="https://www.linkedin.com/in/jayme-fran%C3%A7a-b45710318/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
