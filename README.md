@@ -4,21 +4,14 @@
 
 #
 
-<img align="right" alt="" height="200px" src=".github/workflows/PC GIF.gif">
+<img align="right" alt="" height="180px" src=".github/workflows/PC GIF.gif">
 
-
-<br>
-<br>
-<b>Stack</b>
+<h3><b>Stack</b></h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jayme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jayme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jayme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jayme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <br>
- <br>
- <br>
- <br>
 </div>
   
   #
