@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" alt="" height="180px" src=".github/workflows/PC GIF.gif">
+<img align="right" alt="" height="120px" src=".github/workflows/PC GIF.gif">
 
 <h3><b>Stack</b></h3>
 <div style="display: inline_block"><br>
