@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" alt="" height="180px" src=".github/workflows/PC GIF.gif">
+<img align="right" alt="" height="200px" src=".github/workflows/PC GIF.gif">
 
 
 
