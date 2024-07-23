@@ -20,7 +20,10 @@
   <a href="https://instagram.com/jayme_franca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
 
- ![Snake animation](https://github.com/jaymefranca/jaymefranca/blob/output/.github/workflows/cobrinha.yml)
-
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaymefranca/jaymefranca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaymefranca/jaymefranca/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jaymefranca/jaymefranca/output/github-contribution-grid-snake.svg">
+</picture>
 
 
